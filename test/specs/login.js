@@ -10,6 +10,7 @@ describe('My Login application', () => {
 
         // await LoginPage.login('tomsmith', 'SuperSecretPassword!')
         await LoginPage.login('qa-assignment2', 'qa-Bynder2023!')
+        browser.pause(4000);
         
         // await expect(SecurePage.flashAlert).toBeExisting()
         // await expect(SecurePage.flashAlert).toHaveTextContaining(
