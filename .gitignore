@@ -1,0 +1,10 @@
+node_modules/
+allure-report/
+allure-results/
+
+
+#comment
+node_modules
+node_modules
+allure-report
+allure-results
