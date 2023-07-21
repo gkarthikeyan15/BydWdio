@@ -59,6 +59,10 @@ exports.config = {
     // }
     ],
 
+    pageObjects: {
+        // You can specify any desired name, such as "myPageObjects"
+        myPageObjects: './test/pageobjects',
+      },
     //
     // ===================
     // Test Configurations
